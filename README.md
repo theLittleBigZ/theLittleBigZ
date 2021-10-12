@@ -1,4 +1,7 @@
-### Hi there 👋
+### Greetings from TheLittleBigZ
+
+Hi I don't know what to put here so here's one of the get start stuff
+- 🔭 I’m currently working on [LeetCode](https://github.com/theLittleBigZ/LeetCode)
 
 <!--
 **theLittleBigZ/theLittleBigZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
