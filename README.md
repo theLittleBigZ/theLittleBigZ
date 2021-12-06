@@ -3,3 +3,6 @@
 # General Kenobi, 
 ## You are a bold one!
 ### [the403.ml](https://the403.ml/)
+
+#### Some info about my on Github
+[![theLittleBigZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=theLittleBigZ)](https://github.com/anuraghazra/github-readme-stats)
