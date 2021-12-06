@@ -10,4 +10,4 @@
 
 
 #### Some info about my on Github
-[![theLittleBigZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=theLittleBigZ)](https://the403.ml/)
+[![theLittleBigZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=theLittleBigZ&show_icons=true&theme=dracula)](https://the403.ml/)
