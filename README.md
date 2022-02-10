@@ -2,8 +2,6 @@
 
 # General Kenobi, 
 ## You are a bold one!
-### [the403.ml](https://the403.ml/)
-
 
 
 
