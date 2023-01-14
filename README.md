@@ -4,7 +4,3 @@
 
 > [@the404devs](https://github.com/the404devs), 
 >>  You are a bold one!
-
----
-#### Some info about my on Github
-[![theLittleBigZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=theLittleBigZ&show_icons=true&theme=dracula)](https://the403.ml/)
