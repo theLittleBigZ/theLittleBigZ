@@ -1,1 +1,2 @@
-[{"User":"thelittlebigz","Message":"ignore this"},{"User":"thelittlebigz","Message":"okrgrere"},{"User":"thelittlebigz","Message":"ojoprtg"},{"User":"thelittlebigz","Message":"dfsorf"},{"User":"thelittlebigz","Message":"fdfds"}]
+﻿data.0.User,data.0.Message,data.1.User,data.1.Message,data.2.User,data.2.Message,data.3.User,data.3.Message,data.4.User,data.4.Message
+thelittlebigz,ignore this,thelittlebigz,okrgrere,thelittlebigz,ojoprtg,thelittlebigz,dfsorf,thelittlebigz,fdfds
