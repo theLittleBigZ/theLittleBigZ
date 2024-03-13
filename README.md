@@ -1,1 +1,1 @@
-OMG
+[{"User":"Prev","Message":"OMG\n"}]
